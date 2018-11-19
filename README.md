@@ -1,6 +1,6 @@
 # Song Title From Youtube
 
-An application based on Win API to recognize YouTube video page and read the title to the folder for OBS and TWITCH copyright related needs.
+An application based on Win API to recognize YouTube video page and write a title to the file in a root folder for OBS/Twitch Stream copyright related needs.
 
 USAGE: SongTitleFromYoutube.exe <milliseconds> <filename>
 , where:
