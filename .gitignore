@@ -1,5 +1,8 @@
 ## Ignore Visual Studio temporary files and build results
 
+#Output results
+*.txt
+
 # User-specific files
 *.suo
 *.user
